@@ -1,7 +1,7 @@
 # SQL Student Management System
 
 ## Project Overview
-This project manages student, course, enrollment, and marks data using SQL.
+This project demonstrates a SQL-based Student Management System.
 
 ## Tools Used
 - SQL
