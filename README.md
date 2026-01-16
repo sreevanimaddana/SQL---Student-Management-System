@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project demonstrates a SQL-based Student Management System.
+SQL queries are used to retrieve data and generate meaningful insights from student academic records.
 
 ## Tools Used
 - SQL
@@ -21,6 +22,11 @@ This project demonstrates a SQL-based Student Management System.
 - ORDER BY
 - Aggregate functions
 
+## Project Structure
+- SQL file containing table creation, insertion, and queries  
+- Markdown file containing query output screenshots  
+- Project explanation file for detailed documentation
+- 
 ## Project Outcome
-Designed a relational database and extracted insights such as
+Designed a relational database and extracted insights such as 
 top-performing students, course-wise averages, and enrollments.
