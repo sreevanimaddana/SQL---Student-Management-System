@@ -26,7 +26,7 @@ SQL queries are used to retrieve data and generate meaningful insights from stud
 - SQL file containing table creation, insertion, and queries  
 - Markdown file containing query output screenshots  
 - Project explanation file for detailed documentation
-- 
+
 ## Project Outcome
 Designed a relational database and extracted insights such as 
 top-performing students, course-wise averages, and enrollments.
